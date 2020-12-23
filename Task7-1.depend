@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608720286 source:c:\users\79194\desktop\ \Коллегия\Инфа\sem 3 task7-1\task7-1\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<string>
+
